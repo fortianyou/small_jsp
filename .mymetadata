@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wanczy_jsp"
+  id="myeclipse.1372692946270"
+  context-root="/wanczy_jsp"
+  j2ee-spec="5.0"
+  archive="wanczy_jsp.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
